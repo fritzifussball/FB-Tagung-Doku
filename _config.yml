@@ -1,8 +1,21 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: "FB-Tagung 2025"
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# Navigation (Seitenstruktur)
+nav:
+  - title: Startseite
+    url: /
+  - title: Gesamtübersicht
+    url: /gesamtuebersicht
+  - title: Workshops
+    children:
+      - title: Workshop 1
+        url: /workshop1
+      - title: Workshop 2
+        url: /workshop2
+  - title: Panels
+    children:
+      - title: Panel 1
+        url: /panel1
+  - title: Materialien
+    url: /materialien
