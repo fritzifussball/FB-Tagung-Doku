@@ -6,36 +6,38 @@ nav:
   - title: Startseite
     url: /
   - title: Gesamtpräsentation
-    url: /gesamtpräsentation.md
+    url: /gesamtpraesentation
+
   - title: Workshops
     children:
       - title: Belastbarkeit & Beziehungsarbeit
-        url: /Workshops/Belastbarkeit & Beziehungsarbeit.md
+        url: /workshops/belastbarkeit-und-beziehungsarbeit
       - title: Erfahrungsaustausch Fans & Polizei
-        url: /Workshops/Erfahrungsaustausch Fans & Polizei.md
-     - title: Fanarbeit unter Druck - Konsequenzen des Karlsruher Urteils
-        url: /Workshops/Fanarbeit unter Druck - Konsequenzen des Karlsruher Urteils.md
-    - title: Fankulturelle Entwicklungen
-      url: /Workshops/Fankulturelle Entwicklungen.md
-        - title: Frauenbundesliga
-        url: /Workshops/Frauenbundesliga.md
-      - tilte: Jugndfanarbeit
-      url: /Workshops/Jugendfanarbeit.md
-        - title: Lasst uns mal drüber reden! 2 Jahre FB D&I
-        url: /Workshops/Lasst uns mal drüber reden! 2 Jahre FB D&I.md
-        - title: Vorbereitet sein für kritische und schwierige Situationen
-        url: /Workshops/Vorbereitet sein für kritische und schwierige Situationen.md
-        - title: Zukunft FZM
-        url: /Workshops/Zukunft FZM.md
+        url: /workshops/erfahrungsaustausch-fans-und-polizei
+      - title: Fanarbeit unter Druck – Karlsruher Urteil
+        url: /workshops/karlsruher-urteil
+      - title: Fankulturelle Entwicklungen
+        url: /workshops/fankulturelle-entwicklungen
+      - title: Frauenbundesliga
+        url: /workshops/frauenbundesliga
+      - title: Jugendfanarbeit
+        url: /workshops/jugendfanarbeit
+      - title: Lasst uns mal drüber reden! 2 Jahre FB D&I
+        url: /workshops/fb-di
+      - title: Vorbereitet sein für kritische Situationen
+        url: /workshops/kritische-situationen
+      - title: Zukunft FZM
+        url: /workshops/zukunft-fzm
+
   - title: Panels
     children:
-      - title: Awareness-Konzepte und Anlaufstellen für sexualisierte Gewalt
-        url: /Panels/Awareness-Konzepte und Anlaufstellen für sexualisierte Gewalt.md
-      - title: Inklusive Kommunikationsangebote für Fans mit Hörbehinderung
-        url: /Panels/Inklusive Kommunikationsangebote für Fans mit Hörbehinderung.md
-       - title: Kenntnisse und Einfluss
-        url: /Panels/Kenntnisse und Einfluss.md
-      - title: Terminierung der Spieltage + Reiseweg-Thematik
-        url: /Panels/Terminierung der Spieltage + Reiseweg-Thematik.md
-      - title: Umgang mit Pyrotechnik in der Fanarbeit
-        url: /Panels/Umgang mit Pyrotechnik in der Fanarbeit.md
+      - title: Awareness sexualisierte Gewalt
+        url: /panels/awareness
+      - title: Inklusive Kommunikation bei Hörbehinderung
+        url: /panels/inklusive-kommunikation
+      - title: Kenntnisse und Einfluss
+        url: /panels/kenntnisse-und-einfluss
+      - title: Spieltage & Reiseweg
+        url: /panels/spieltag-reiseweg
+      - title: Pyrotechnik
+        url: /panels/pyrotechnik
