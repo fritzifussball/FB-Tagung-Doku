@@ -25,7 +25,13 @@ nav:
         url: /Workshops/Zukunft FZM.md
   - title: Panels
     children:
-      - title: Panel 1
-        url: /panel1
-  - title: Materialien
-    url: /materialien
+      - title: Awareness-Konzepte und Anlaufstellen für sexualisierte Gewalt
+        url: /Panels/Awareness-Konzepte und Anlaufstellen für sexualisierte Gewalt.md
+      - title: Inklusive Kommunikationsangebote für Fans mit Hörbehinderung
+        url: /Panels/Inklusive Kommunikationsangebote für Fans mit Hörbehinderung.md
+       - title: Kenntnisse und Einfluss
+        url: /Panels/Kenntnisse und Einfluss.md
+      - title: Terminierung der Spieltage + Reiseweg-Thematik
+        url: /Panels/Terminierung der Spieltage + Reiseweg-Thematik.md
+      - title: Umgang mit Pyrotechnik in der Fanarbeit
+        url: /Panels/Umgang mit Pyrotechnik in der Fanarbeit.md
