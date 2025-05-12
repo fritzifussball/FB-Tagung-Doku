@@ -1,0 +1,2 @@
+
+kenntnisse u einfluss
