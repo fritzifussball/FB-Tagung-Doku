@@ -11,33 +11,33 @@ nav:
   - title: Workshops
     children:
       - title: Belastbarkeit & Beziehungsarbeit
-        url: /workshops/belastbarkeit-und-beziehungsarbeit
+        url: /Workshops/belastbarkeit-und-beziehungsarbeit
       - title: Erfahrungsaustausch Fans & Polizei
-        url: /workshops/erfahrungsaustausch-fans-und-polizei
+        url: /Workshops/erfahrungsaustausch-fans-und-polizei
       - title: Fanarbeit unter Druck – Karlsruher Urteil
-        url: /workshops/karlsruher-urteil
+        url: /Workshops/karlsruher-urteil
       - title: Fankulturelle Entwicklungen
-        url: /workshops/fankulturelle-entwicklungen
+        url: /Workshops/fankulturelle-entwicklungen
       - title: Frauenbundesliga
-        url: /workshops/frauenbundesliga
+        url: /Workshops/frauenbundesliga
       - title: Jugendfanarbeit
-        url: /workshops/jugendfanarbeit
+        url: /Workshops/jugendfanarbeit
       - title: Lasst uns mal drüber reden! 2 Jahre FB D&I
-        url: /workshops/fb-di
+        url: /Workshops/fb-di
       - title: Vorbereitet sein für kritische Situationen
-        url: /workshops/kritische-situationen
+        url: /Workshops/kritische-situationen
       - title: Zukunft FZM
-        url: /workshops/zukunft-fzm
+        url: /Workshops/zukunft-fzm
 
   - title: Panels
     children:
       - title: Awareness sexualisierte Gewalt
-        url: /panels/awareness
+        url: /Panels/awareness
       - title: Inklusive Kommunikation bei Hörbehinderung
-        url: /panels/inklusive-kommunikation
+        url: /Panels/inklusive-kommunikation
       - title: Kenntnisse und Einfluss
-        url: /panels/kenntnisse-und-einfluss
+        url: /Panels/kenntnisse-und-einfluss
       - title: Spieltage & Reiseweg
-        url: /panels/spieltag-reiseweg
+        url: /Panels/spieltag-reiseweg
       - title: Pyrotechnik
-        url: /panels/pyrotechnik
+        url: /Panels/pyrotechnik
